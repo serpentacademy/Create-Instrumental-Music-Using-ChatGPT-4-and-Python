@@ -33,6 +33,5 @@ The melody stays between MIDI pitch 50 and MIDI pitch 100
 )
 
 print(completion.choices[0].message.content)
-print(completion.choices[0].message)
 
 
